@@ -42,9 +42,9 @@
     "packs": [],
     "languages": [],
     "socket": true,
-    "url": "https://github.com/fryguy1013/pdftofoundry/",
-    "bugs": "https://github.com/fryguy1013/pdftofoundry/issues",
-    "changelog": "https://github.com/fryguy1013/pdftofoundry/blob/release/CHANGELOG.md",
-    "manifest": "https://github.com/fryguy1013/pdftofoundry/releases/latest/download/module.json",
-    "download": "https://github.com/fryguy1013/pdftofoundry/releases/latest/download/pdftofoundry.zip"
+    "url": "https://github.com/HypersonicWalrus/pdftofoundry/",
+    "bugs": "https://github.com/HypersonicWalrus/pdftofoundry/issues",
+    "changelog": "https://github.com/HypersonicWalrus/pdftofoundry/blob/release/CHANGELOG.md",
+    "manifest": "https://github.com/HypersonicWalrus/pdftofoundry/releases/latest/download/module.json",
+    "download": "https://github.com/HypersonicWalrus/pdftofoundry/releases/latest/download/pdftofoundry.zip"
 }
